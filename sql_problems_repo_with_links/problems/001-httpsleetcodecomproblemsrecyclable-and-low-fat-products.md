@@ -42,7 +42,7 @@ The result format is in the following example.
 | 1          |
 | 3          |
 
-## Solution (Paste SQL here)
+## Solution 
 ```sql
 select product_id from Products where low_fats = 'Y' and recyclable = 'Y';
 ```
