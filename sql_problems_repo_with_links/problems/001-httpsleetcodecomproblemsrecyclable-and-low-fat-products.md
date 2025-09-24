@@ -48,9 +48,9 @@ select product_id from Products where low_fats = 'Y' and recyclable = 'Y';
 ```
 
 ## Explanation
-- 
+
 In this question, the goal is to select products that are low in fat and recyclable. I used a simple SELECT statement with a WHERE clause combining the two conditions using AND.
----
+
 
 ### Status
 - `status:` Completed
